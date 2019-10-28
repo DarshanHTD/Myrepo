@@ -1,10 +1,1 @@
- Volume in drive E has no label.
- Volume Serial Number is 5CFC-A889
-
- Directory of E:\GIT\MyGIT
-
-27-10-2019  10:47 PM    <DIR>          .
-27-10-2019  10:47 PM    <DIR>          ..
-27-10-2019  10:47 PM                 0 test.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  65,214,013,440 bytes free
+testing
